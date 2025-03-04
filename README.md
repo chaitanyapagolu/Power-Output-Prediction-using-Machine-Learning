@@ -12,30 +12,14 @@ Frontend: HTML, CSS
 Data Visualization: Matplotlib, Seaborn.
 
 
-📂 Project Structure
-graphql
-Copy
-Edit
-CCPP_Prediction/
-│── app.py                  # Flask backend application
-│── train_model.py           # Model training script
-│── CCPP.pkl                 # Saved Machine Learning model
-│── dataset.csv              # Power Plant Dataset
-│── templates/               # HTML files for UI
-│   │── home.html            # Home Page
-│   │── index.html           # Prediction Page
-│── static/                  # CSS and images
-│   │── main.css             # Styling for UI
-│   │── background.jpg       # Background image
-│── README.md                # Project documentation
-
 
 
 📥 Installation & Setup
 1️⃣ Install Required Libraries
 Run the following command to install dependencies:
-
 pip install flask numpy pandas scikit-learn matplotlib seaborn pickle5
+
+
 2️⃣ Run the Flask Application
 Start the web server by running:
 python app.py
