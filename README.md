@@ -1,0 +1,1 @@
+# prediction-of-full-load-electrical-power-output-of-a-base-load-operated-combined-cycle-power-plant
