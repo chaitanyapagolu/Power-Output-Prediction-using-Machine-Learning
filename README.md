@@ -91,8 +91,7 @@ Saved Model: CCPP.pkl
 💡 Author & Contact
 👨‍💻 Bandi Bala Subrahmanyam
 📧 balubandi83@gmail.com
-🔗 LinkedIn
-🔗 GitHub
+🔗 linkedin.com/in/subrahmanyambandi
 
 📜 License
 This project is open-source and can be freely used for educational purposes.
